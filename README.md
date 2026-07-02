@@ -2,7 +2,6 @@
 
 A full machine learning workflow applied to the USGS Significant Earthquakes dataset (1965–2016), covering data cleaning, feature engineering, clustering, classification, and regression.
 
-> **⚠️ This is a reference/starter implementation, not a finished portfolio piece.** It's meant to be studied and rewritten in your own words — the same way the Titanic project went from an AI-generated dump to something you rebuilt and could defend. Read through each notebook, understand *why* each step is there, then re-type it yourself with your own comments and reasoning before this goes anywhere near GitHub.
 
 ## Dataset
 
